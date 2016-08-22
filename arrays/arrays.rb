@@ -23,4 +23,3 @@ puts "\n\n"
 
 puts "Nome: #{b['name']}"
 puts "Idade: #{b['age']}"
-
